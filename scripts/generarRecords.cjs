@@ -246,14 +246,43 @@ function formatTime(time) {
 
     if (!time) return "";
 
-    let t = time.toString();
+    let t = time.toString().trim();
 
-    t = t.replace(/^00:/, "");
-    t = t.replace(/^00:/, "");
+    // Elimina horas si son 00
+    if (t.startsWith("00:")) t = t.substring(3);
+    // Elimina minutos si también son 00
+    if (t.startsWith("00:")) t = t.substring(3);
 
     return t;
 
 }
+
+function formatDate(excelDate) {
+
+    if (excelDate === "" || excelDate === null || excelDate === undefined) {
+        return "";
+    }
+
+    if (typeof excelDate === "string" && excelDate.includes("/")) {
+        return excelDate;
+    }
+
+    const value = Number(excelDate);
+
+    if (isNaN(value)) {
+        return String(excelDate);
+    }
+
+    const fecha = new Date((value - 25569) * 86400 * 1000);
+
+    const dia = String(fecha.getDate()).padStart(2, "0");
+    const mes = String(fecha.getMonth() + 1).padStart(2, "0");
+    const anio = fecha.getFullYear();
+
+    return `${dia}/${mes}/${anio}`;
+
+}
+
 //=========================================================
 // PROCESAR TODOS LOS REGISTROS
 //=========================================================
@@ -364,7 +393,7 @@ function processRecords() {
 
                 fina: Number(row["Ptos FINA"] || 0),
 
-                fecha: (row["Fecha"] || "").toString(),
+                fecha: formatDate(row["Fecha"]),
 
                 competicion: String(row["Competición"] || "").trim(),
 
