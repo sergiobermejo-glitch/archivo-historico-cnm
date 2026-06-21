@@ -1,0 +1,208 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#f5f7fa;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#222;
+}
+
+.container{
+    width:96%;
+    max-width:1920px;
+    margin:auto;
+    padding:40px 20px 80px;
+}
+
+/*========================*/
+/* CABECERA */
+/*========================*/
+
+.header{
+    text-align:center;
+    margin-bottom:40px;
+}
+
+.club-logo{
+    width:200px;
+    margin-bottom:10px;
+}
+
+.header h1{
+    font-size:3.3rem;
+    margin-bottom:10px;
+}
+
+.header p{
+    color:#666;
+    font-size:1.2rem;
+}
+
+/*========================*/
+/* FILTROS */
+/*========================*/
+
+.filters{
+    display:flex;
+    justify-content:center;
+    gap:60px;
+    flex-wrap:wrap;
+    margin-bottom:55px;
+}
+
+.filter-group{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+.filter-group label{
+    font-weight:bold;
+}
+
+.buttons{
+    display:flex;
+    gap:10px;
+}
+
+button{
+    border:none;
+    padding:12px 24px;
+    border-radius:10px;
+    background:white;
+    cursor:pointer;
+    font-size:16px;
+    transition:.2s;
+    box-shadow:0 2px 8px rgba(0,0,0,.08);
+}
+
+button:hover{
+    transform:translateY(-2px);
+}
+
+button.active{
+    background:#0b6efd;
+    color:white;
+}
+
+/*========================*/
+/* SECCIONES */
+/*========================*/
+
+.records{
+    display:flex;
+    flex-direction:column;
+    gap:45px;
+}
+
+.estilo-section{
+    width:100%;
+}
+
+.estilo-title{
+    font-size:34px;
+    font-weight:700;
+    margin-bottom:18px;
+    padding-bottom:6px;
+    border-bottom:3px solid #0b6efd;
+    display:inline-block;
+}
+
+/*========================*/
+/* FILAS DE TARJETAS */
+/*========================*/
+
+.records-grid{
+    display:flex;
+    flex-wrap:wrap;
+    gap:16px;
+}
+
+/*========================*/
+/* TARJETAS */
+/*========================*/
+
+.record-card{
+
+    flex:0 0 250px;
+
+    background:white;
+    border-radius:18px;
+    padding:22px;
+
+    box-shadow:0 6px 18px rgba(0,0,0,.08);
+
+    transition:.25s;
+}
+
+.record-card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 12px 28px rgba(0,0,0,.12);
+}
+
+.record-event{
+    font-size:1.25rem;
+    font-weight:700;
+    margin-bottom:18px;
+}
+
+.record-time{
+    font-size:3rem;
+    font-weight:800;
+    color:#0b6efd;
+    line-height:1;
+    margin-bottom:18px;
+}
+
+.record-swimmer{
+    font-size:1.02rem;
+    font-weight:700;
+    margin-bottom:10px;
+}
+
+.record-date{
+    font-size:.92rem;
+    color:#777;
+    margin-bottom:16px;
+}
+
+.record-points{
+    font-size:.95rem;
+    color:#0b6efd;
+    font-weight:700;
+}
+
+/*========================*/
+/* RESPONSIVE */
+/*========================*/
+
+@media(max-width:1200px){
+
+    .records-grid{
+        justify-content:center;
+    }
+
+    .record-card{
+        flex:1 1 280px;
+    }
+
+}
+
+@media(max-width:700px){
+
+    .header h1{
+        font-size:2.4rem;
+    }
+
+    .club-logo{
+        width:150px;
+    }
+
+    .filters{
+        gap:25px;
+    }
+
+}
