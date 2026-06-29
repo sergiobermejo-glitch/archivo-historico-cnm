@@ -15,6 +15,7 @@ type RecordType = {
   fecha: string;
   competicion: string;
   lugar: string;
+  isNew: boolean;
 };
 
 function App() {
@@ -99,6 +100,24 @@ function App() {
         </div>
       </section>
 
+      <section className="historical-archive">
+        <div>
+          <h2>📄 Archivo Histórico Completo</h2>
+          <p>
+            Consulta el ranking histórico absoluto y por edades del Club Natación Mediterráneo Valencia.
+          </p>
+        </div>
+
+        <a
+          className="archive-download"
+          href="/Archivo_Historico_CNM.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Descargar PDF
+        </a>
+      </section>
+
       <section className="records">
 
         {estilos.map((estilo) => {
@@ -125,6 +144,7 @@ function App() {
                     nacimiento={record.anio}
                     lugar={record.lugar}
                     fecha={record.fecha}
+                    isNew={record.isNew}
                   />
                 ))}
 

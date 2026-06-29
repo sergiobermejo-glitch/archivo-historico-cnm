@@ -195,6 +195,19 @@ function createKey(pool, gender, event) {
 
 }
 
+function parseIsNew(value) {
+
+    if (typeof value === "boolean") return value;
+
+    const normalized = String(value || "").trim().toLowerCase();
+
+    return normalized === "true" ||
+        normalized === "si" ||
+        normalized === "sí" ||
+        normalized === "1";
+
+}
+
 //=========================================================
 // CONVERSIÓN DE TIEMPOS
 //=========================================================
@@ -397,7 +410,9 @@ function processRecords() {
 
                 competicion: String(row["Competición"] || "").trim(),
 
-                lugar: String(row["Lugar"] || "").trim()
+                lugar: String(row["Lugar"] || "").trim(),
+
+                isNew: parseIsNew(row["isNew"] || row["Nuevo"])
 
             };
 

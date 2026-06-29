@@ -6,6 +6,7 @@ type RecordCardProps = {
   nacimiento: number;
   lugar: string;
   fecha: string;
+  isNew: boolean;
 };
 
 export default function RecordCard({
@@ -16,9 +17,14 @@ export default function RecordCard({
   nacimiento,
   lugar,
   fecha,
+  isNew,
 }: RecordCardProps) {
   return (
     <article className="record-card">
+      {isNew === true && (
+        <span className="new-badge">NUEVO</span>
+      )}
+
       <h3 className="record-event">{prueba}</h3>
 
       <div className="record-time">{marca}</div>

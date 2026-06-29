@@ -88,6 +88,46 @@ button.active{
     color:white;
 }
 
+.historical-archive{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:20px;
+    background:white;
+    border-radius:18px;
+    padding:22px 26px;
+    margin:0 auto 45px;
+    max-width:760px;
+    box-shadow:0 6px 18px rgba(0,0,0,.08);
+}
+
+.historical-archive h2{
+    font-size:1.35rem;
+    margin-bottom:8px;
+}
+
+.historical-archive p{
+    color:#666;
+    line-height:1.4;
+}
+
+.archive-download{
+    flex:0 0 auto;
+    border:none;
+    padding:12px 24px;
+    border-radius:10px;
+    background:#0b6efd;
+    color:white;
+    text-decoration:none;
+    font-size:16px;
+    transition:.2s;
+    box-shadow:0 2px 8px rgba(0,0,0,.08);
+}
+
+.archive-download:hover{
+    transform:translateY(-2px);
+}
+
 /*========================*/
 /* SECCIONES */
 /*========================*/
@@ -128,6 +168,7 @@ button.active{
 .record-card{
 
     flex:0 0 250px;
+    position:relative;
 
     background:white;
     border-radius:18px;
@@ -141,6 +182,20 @@ button.active{
 .record-card:hover{
     transform:translateY(-5px);
     box-shadow:0 12px 28px rgba(0,0,0,.12);
+}
+
+.new-badge{
+    position:absolute;
+    top:12px;
+    right:12px;
+    padding:4px 8px;
+    border-radius:999px;
+    background:#ffb703;
+    color:#3b2600;
+    font-size:.68rem;
+    font-weight:800;
+    line-height:1;
+    letter-spacing:.04em;
 }
 
 .record-event{
@@ -203,6 +258,11 @@ button.active{
 
     .filters{
         gap:25px;
+    }
+
+    .historical-archive{
+        flex-direction:column;
+        align-items:flex-start;
     }
 
 }

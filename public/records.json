@@ -11,7 +11,8 @@
     "fina": 628,
     "fecha": "24/04/2022",
     "competicion": "Copa Autonómica Primera División",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -25,7 +26,8 @@
     "fina": 608,
     "fecha": "25/04/2022",
     "competicion": "Copa Autonómica Primera División",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -39,7 +41,8 @@
     "fina": 573,
     "fecha": "25/04/2022",
     "competicion": "Copa Autonómica Primera División",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -53,7 +56,8 @@
     "fina": 497,
     "fecha": "11/05/2025",
     "competicion": "CONTROL LIBRE INFANTIL JUNIOR Y MAYORES -GANDIA-",
-    "lugar": "Gandia"
+    "lugar": "Gandia",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -67,7 +71,8 @@
     "fina": 499,
     "fecha": "31/03/2025",
     "competicion": "COPA AUTONOMICA CLUBS 2ª DIVISION",
-    "lugar": "Valencia"
+    "lugar": "Valencia",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -81,7 +86,8 @@
     "fina": 510,
     "fecha": "11/05/2025",
     "competicion": "CONTROL LIBRE INFANTIL JUNIOR Y MAYORES -GANDIA-",
-    "lugar": "Gandia"
+    "lugar": "Gandia",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -95,7 +101,8 @@
     "fina": 555,
     "fecha": "14/04/2024",
     "competicion": "Copa Autonómica Primera División",
-    "lugar": "Castellon"
+    "lugar": "Castellon",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -109,7 +116,8 @@
     "fina": 544,
     "fecha": "08/12/2025",
     "competicion": "TICC 2025 - TROFEO INTERNACIONAL CASTALIA CASTELLON",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -123,7 +131,8 @@
     "fina": 507,
     "fecha": "11/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
-    "lugar": "Petrer"
+    "lugar": "Petrer",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -137,7 +146,8 @@
     "fina": 577,
     "fecha": "05/12/2024",
     "competicion": "4es Championnats de France Juniors",
-    "lugar": "MASSY PALAISEAU"
+    "lugar": "MASSY PALAISEAU",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -151,7 +161,8 @@
     "fina": 519,
     "fecha": "10/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
-    "lugar": "Petrer"
+    "lugar": "Petrer",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -165,7 +176,8 @@
     "fina": 538,
     "fecha": "06/12/2024",
     "competicion": "4es Championnats de France Juniors",
-    "lugar": "MASSY PALAISEAU"
+    "lugar": "MASSY PALAISEAU",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -179,7 +191,8 @@
     "fina": 574,
     "fecha": "06/12/2025",
     "competicion": "TICC 2025 - TROFEO INTERNACIONAL CASTALIA CASTELLON",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -193,7 +206,8 @@
     "fina": 526,
     "fecha": "14/04/2024",
     "competicion": "Copa Autonómica Primera División",
-    "lugar": "Castellon"
+    "lugar": "Castellon",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -207,7 +221,8 @@
     "fina": 529,
     "fecha": "14/04/2024",
     "competicion": "Copa Autonómica Primera División",
-    "lugar": "Castellon"
+    "lugar": "Castellon",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -221,7 +236,8 @@
     "fina": 490,
     "fecha": "07/04/2025",
     "competicion": "5ªJORNADA LIGA INFANTIL Y MAYORES -BENIMAMET-",
-    "lugar": "Benimamet"
+    "lugar": "Benimamet",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -235,7 +251,8 @@
     "fina": 563,
     "fecha": "09/12/2024",
     "competicion": "Trofeo Internacional Castalia Castellón (TICC-24)",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -249,7 +266,8 @@
     "fina": 483,
     "fecha": "28/10/2024",
     "competicion": "V Trofeo de Natacion 226 ERS",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -263,7 +281,8 @@
     "fina": 631,
     "fecha": "24/04/2022",
     "competicion": "Copa Autonómica Primera División",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -277,7 +296,8 @@
     "fina": 650,
     "fecha": "25/04/2022",
     "competicion": "Copa Autonómica Primera División",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -291,7 +311,8 @@
     "fina": 605,
     "fecha": "25/04/2022",
     "competicion": "Copa Autonómica Primera División",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -305,7 +326,8 @@
     "fina": 579,
     "fecha": "11/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
-    "lugar": "Petrer"
+    "lugar": "Petrer",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -319,7 +341,8 @@
     "fina": 542,
     "fecha": "19/01/2025",
     "competicion": "3ª JORNADA LIGA INFANTIL Y MAYORES-GANDIA-",
-    "lugar": "Gandia"
+    "lugar": "Gandia",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -333,7 +356,8 @@
     "fina": 596,
     "fecha": "10/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
-    "lugar": "Petrer"
+    "lugar": "Petrer",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -347,7 +371,8 @@
     "fina": 503,
     "fecha": "11/12/2022",
     "competicion": "Copa Nacional 2ªDiv-Fase Territorial CV",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -361,7 +386,8 @@
     "fina": 511,
     "fecha": "21/05/2023",
     "competicion": "XXVI OPEN NATACIO Y ESPORTS",
-    "lugar": "Gandia"
+    "lugar": "Gandia",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -375,7 +401,8 @@
     "fina": 471,
     "fecha": "11/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
-    "lugar": "Petrer"
+    "lugar": "Petrer",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -389,7 +416,8 @@
     "fina": 556,
     "fecha": "06/12/2025",
     "competicion": "TICC 2025 - TROFEO INTERNACIONAL CASTALIA CASTELLON",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -403,7 +431,8 @@
     "fina": 525,
     "fecha": "07/12/2025",
     "competicion": "TICC 2025 - TROFEO INTERNACIONAL CASTALIA CASTELLON",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -417,7 +446,8 @@
     "fina": 441,
     "fecha": "08/12/2025",
     "competicion": "TICC 2025 - TROFEO INTERNACIONAL CASTALIA CASTELLON",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -431,7 +461,8 @@
     "fina": 530,
     "fecha": "09/11/2020",
     "competicion": "I TROFEO FEDERACION 226ERS",
-    "lugar": "CASTELLON"
+    "lugar": "CASTELLON",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -445,7 +476,8 @@
     "fina": 509,
     "fecha": "31/03/2025",
     "competicion": "COPA AUTONOMICA CLUBS 2ª DIVISION",
-    "lugar": "Valencia"
+    "lugar": "Valencia",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -459,7 +491,8 @@
     "fina": 455,
     "fecha": "10/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
-    "lugar": "Petrer"
+    "lugar": "Petrer",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -473,7 +506,8 @@
     "fina": 543,
     "fecha": "24/04/2022",
     "competicion": "Copa Autonómica Primera División",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -487,7 +521,8 @@
     "fina": 518,
     "fecha": "20/04/2026",
     "competicion": "4 JORNADA CONTROL INFANTIL Y MAYORES BETERA",
-    "lugar": "Bétera"
+    "lugar": "Bétera",
+    "isNew": false
   },
   {
     "piscina": "25",
@@ -501,7 +536,8 @@
     "fina": 560,
     "fecha": "10/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
-    "lugar": "Petrer"
+    "lugar": "Petrer",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -515,7 +551,8 @@
     "fina": 648,
     "fecha": "04/07/2022",
     "competicion": "Campeonato Autonómico Jr y Abs de Verano OPEN P50",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -529,7 +566,8 @@
     "fina": 620,
     "fecha": "27/01/2025",
     "competicion": "XXX MEMORIAL PASCUAL ROMAN",
-    "lugar": "Elche"
+    "lugar": "Elche",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -543,7 +581,8 @@
     "fina": 537,
     "fecha": "22/07/2024",
     "competicion": "Campeonato Autonómico Open Junior Y Absoluto de Verano",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -557,7 +596,8 @@
     "fina": 494,
     "fecha": "26/01/2025",
     "competicion": "XXX MEMORIAL PASCUAL ROMAN",
-    "lugar": "Elche"
+    "lugar": "Elche",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -571,7 +611,8 @@
     "fina": 498,
     "fecha": "25/01/2025",
     "competicion": "XXX MEMORIAL PASCUAL ROMAN",
-    "lugar": "Elche"
+    "lugar": "Elche",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -585,7 +626,8 @@
     "fina": 421,
     "fecha": "23/02/2025",
     "competicion": "CAMPEONATO AUTONOMICO INFANTIL DE INVIERNO 2025 C.V.",
-    "lugar": "ELCHE"
+    "lugar": "ELCHE",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -599,7 +641,8 @@
     "fina": 622,
     "fecha": "12/03/2026",
     "competicion": "CTO. DE ESPAÑA ABSOLUTO OPEN P50 - ASTRALPOOL",
-    "lugar": "Sabadell"
+    "lugar": "Sabadell",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -613,7 +656,8 @@
     "fina": 575,
     "fecha": "22/02/2026",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2026",
-    "lugar": "Elche"
+    "lugar": "Elche",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -627,7 +671,8 @@
     "fina": 513,
     "fecha": "25/05/2025",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE VERANO 2025",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -641,7 +686,8 @@
     "fina": 528,
     "fecha": "01/03/2026",
     "competicion": "CAMPEONATO AUTONOMICO INFANTIL DE INVIERNO 2026",
-    "lugar": "CASTELLÓN"
+    "lugar": "CASTELLÓN",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -655,7 +701,8 @@
     "fina": 519,
     "fecha": "26/01/2026",
     "competicion": "TROFEO INTERNACIONAL XXXI MEMORIAL PASCUAL ROMAN",
-    "lugar": "Elche"
+    "lugar": "Elche",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -669,7 +716,8 @@
     "fina": 475,
     "fecha": "02/03/2026",
     "competicion": "CAMPEONATO AUTONOMICO INFANTIL DE INVIERNO 2026",
-    "lugar": "CASTELLÓN"
+    "lugar": "CASTELLÓN",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -683,7 +731,8 @@
     "fina": 600,
     "fecha": "27/01/2025",
     "competicion": "XXX MEMORIAL PASCUAL ROMAN",
-    "lugar": "Elche"
+    "lugar": "Elche",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -697,7 +746,8 @@
     "fina": 578,
     "fecha": "26/05/2025",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE VERANO 2025",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -711,7 +761,8 @@
     "fina": 426,
     "fecha": "03/05/2026",
     "competicion": "XX TROFEO INTERNACIONAL IBERCAJA CIUDAD ZARAGOZA 2026 XVII MEMORIAL EDUARDO LASTRADA",
-    "lugar": "ZARAGOZA (C)"
+    "lugar": "ZARAGOZA (C)",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -725,7 +776,8 @@
     "fina": 575,
     "fecha": "09/02/2025",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2025 C.V.",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -739,7 +791,8 @@
     "fina": 431,
     "fecha": "02/03/2026",
     "competicion": "CAMPEONATO AUTONOMICO INFANTIL DE INVIERNO 2026",
-    "lugar": "CASTELLÓN"
+    "lugar": "CASTELLÓN",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -753,7 +806,8 @@
     "fina": 585,
     "fecha": "21/07/2024",
     "competicion": "Campeonato Autonómico Open Junior Y Absoluto de Verano",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -767,7 +821,8 @@
     "fina": 577,
     "fecha": "22/07/2024",
     "competicion": "Campeonato Autonómico Open Junior Y Absoluto de Verano",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -781,7 +836,8 @@
     "fina": 507,
     "fecha": "17/02/2022",
     "competicion": "CAMPEONATO DE NATACION ENTRE JOVEENS Y JUNIORS",
-    "lugar": "DNIPRO (UCRANIA)"
+    "lugar": "DNIPRO (UCRANIA)",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -795,7 +851,8 @@
     "fina": 491,
     "fecha": "08/06/2025",
     "competicion": "XIII TROFEO REAL CLUB NATACION DELFIN",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -809,7 +866,8 @@
     "fina": 603,
     "fecha": "04/05/2026",
     "competicion": "XX TROFEO INTERNACIONAL IBERCAJA CIUDAD ZARAGOZA 2026 XVII MEMORIAL EDUARDO LASTRADA",
-    "lugar": "ZARAGOZA (C)"
+    "lugar": "ZARAGOZA (C)",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -823,7 +881,8 @@
     "fina": 613,
     "fecha": "03/05/2026",
     "competicion": "XX TROFEO INTERNACIONAL IBERCAJA CIUDAD ZARAGOZA 2026 XVII MEMORIAL EDUARDO LASTRADA",
-    "lugar": "ZARAGOZA (C)"
+    "lugar": "ZARAGOZA (C)",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -837,7 +896,8 @@
     "fina": 562,
     "fecha": "23/02/2026",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2026",
-    "lugar": "Elche"
+    "lugar": "Elche",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -851,7 +911,8 @@
     "fina": 572,
     "fecha": "04/05/2026",
     "competicion": "XX TROFEO INTERNACIONAL IBERCAJA CIUDAD ZARAGOZA 2026 XVII MEMORIAL EDUARDO LASTRADA",
-    "lugar": "ZARAGOZA (C)"
+    "lugar": "ZARAGOZA (C)",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -865,7 +926,8 @@
     "fina": 524,
     "fecha": "03/05/2026",
     "competicion": "XX TROFEO INTERNACIONAL IBERCAJA CIUDAD ZARAGOZA 2026 XVII MEMORIAL EDUARDO LASTRADA",
-    "lugar": "ZARAGOZA (C)"
+    "lugar": "ZARAGOZA (C)",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -879,7 +941,8 @@
     "fina": 554,
     "fecha": "14/03/2026",
     "competicion": "CTO. DE ESPAÑA ABSOLUTO OPEN P50 - ASTRALPOOL",
-    "lugar": "Sabadell"
+    "lugar": "Sabadell",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -893,7 +956,8 @@
     "fina": 483,
     "fecha": "01/06/2026",
     "competicion": "LVI TROFEU SANT PASCUAL XXXVII MEMORIAL JOSE VICENTE MARTI BARRACHINA",
-    "lugar": "Vila-Real"
+    "lugar": "Vila-Real",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -907,7 +971,8 @@
     "fina": 474,
     "fecha": "22/02/2026",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2026",
-    "lugar": "Elche"
+    "lugar": "Elche",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -921,7 +986,8 @@
     "fina": 586,
     "fecha": "06/12/2021",
     "competicion": "XVIII TROFEO INTERNACIONAL CASTALÍA CASTELLÓN",
-    "lugar": "CASTELLON"
+    "lugar": "CASTELLON",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -935,7 +1001,8 @@
     "fina": 553,
     "fecha": "18/06/2023",
     "competicion": "I Trofeo Federación 226ERS piscina 50m",
-    "lugar": "Castellón"
+    "lugar": "Castellón",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -949,7 +1016,8 @@
     "fina": 394,
     "fecha": "23/06/2019",
     "competicion": "7ª Jornada Control infa y mayores",
-    "lugar": "Moncada"
+    "lugar": "Moncada",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -963,7 +1031,8 @@
     "fina": 514,
     "fecha": "26/01/2026",
     "competicion": "TROFEO INTERNACIONAL XXXI MEMORIAL PASCUAL ROMAN",
-    "lugar": "Elche"
+    "lugar": "Elche",
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -977,6 +1046,7 @@
     "fina": 538,
     "fecha": "23/02/2026",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2026",
-    "lugar": "Elche"
+    "lugar": "Elche",
+    "isNew": false
   }
 ]
