@@ -296,6 +296,36 @@ function formatDate(excelDate) {
 
 }
 
+function isNewRecord(excelDate) {
+    const formattedDate = formatDate(excelDate);
+
+    if (!formattedDate) {
+        return false;
+    }
+
+    const parts = formattedDate.split("/");
+
+    if (parts.length !== 3) {
+        return false;
+    }
+
+    const day = Number(parts[0]);
+    const month = Number(parts[1]);
+    const year = Number(parts[2]);
+
+    if (!day || !month || !year) {
+        return false;
+    }
+
+    const recordDate = new Date(year, month - 1, day);
+
+    const sixMonthsAgo = new Date();
+    sixMonthsAgo.setHours(0, 0, 0, 0);
+    sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
+
+    return recordDate >= sixMonthsAgo;
+}
+
 //=========================================================
 // PROCESAR TODOS LOS REGISTROS
 //=========================================================
@@ -412,7 +442,7 @@ function processRecords() {
 
                 lugar: String(row["Lugar"] || "").trim(),
 
-                isNew: parseIsNew(row["isNew"] || row["Nuevo"])
+                isNew: parseIsNew(row["Fecha"])
 
             };
 
