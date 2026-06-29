@@ -442,7 +442,7 @@ function processRecords() {
 
                 lugar: String(row["Lugar"] || "").trim(),
 
-                isNew: parseIsNew(row["Fecha"])
+                isNew: isNewRecord(row["Fecha"])
 
             };
 

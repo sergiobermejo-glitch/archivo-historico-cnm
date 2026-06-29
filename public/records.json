@@ -132,7 +132,7 @@
     "fecha": "11/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
     "lugar": "Petrer",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "25",
@@ -162,7 +162,7 @@
     "fecha": "10/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
     "lugar": "Petrer",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "25",
@@ -327,7 +327,7 @@
     "fecha": "11/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
     "lugar": "Petrer",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "25",
@@ -357,7 +357,7 @@
     "fecha": "10/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
     "lugar": "Petrer",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "25",
@@ -402,7 +402,7 @@
     "fecha": "11/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
     "lugar": "Petrer",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "25",
@@ -492,7 +492,7 @@
     "fecha": "10/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
     "lugar": "Petrer",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "25",
@@ -522,7 +522,7 @@
     "fecha": "20/04/2026",
     "competicion": "4 JORNADA CONTROL INFANTIL Y MAYORES BETERA",
     "lugar": "Bétera",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "25",
@@ -537,7 +537,7 @@
     "fecha": "10/05/2026",
     "competicion": "COPA AUTONOMICA DE CLUBS 2026 PRIMERA DIVISION",
     "lugar": "Petrer",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -642,7 +642,7 @@
     "fecha": "12/03/2026",
     "competicion": "CTO. DE ESPAÑA ABSOLUTO OPEN P50 - ASTRALPOOL",
     "lugar": "Sabadell",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -657,7 +657,7 @@
     "fecha": "22/02/2026",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2026",
     "lugar": "Elche",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -687,7 +687,7 @@
     "fecha": "28/06/2026",
     "competicion": "CAMPEONATO AUTONOMICO INFANTIL DE VERANO DE LA C.V. 2026",
     "lugar": "CASTELLON",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -702,7 +702,7 @@
     "fecha": "26/01/2026",
     "competicion": "TROFEO INTERNACIONAL XXXI MEMORIAL PASCUAL ROMAN",
     "lugar": "Elche",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -717,7 +717,7 @@
     "fecha": "02/03/2026",
     "competicion": "CAMPEONATO AUTONOMICO INFANTIL DE INVIERNO 2026",
     "lugar": "CASTELLÓN",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -762,7 +762,7 @@
     "fecha": "28/06/2026",
     "competicion": "CAMPEONATO AUTONOMICO INFANTIL DE VERANO DE LA C.V. 2026",
     "lugar": "CASTELLON",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -792,7 +792,7 @@
     "fecha": "29/06/2026",
     "competicion": "CAMPEONATO AUTONOMICO INFANTIL DE VERANO DE LA C.V. 2026",
     "lugar": "CASTELLON",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -867,7 +867,7 @@
     "fecha": "04/05/2026",
     "competicion": "XX TROFEO INTERNACIONAL IBERCAJA CIUDAD ZARAGOZA 2026 XVII MEMORIAL EDUARDO LASTRADA",
     "lugar": "ZARAGOZA (C)",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -882,7 +882,7 @@
     "fecha": "03/05/2026",
     "competicion": "XX TROFEO INTERNACIONAL IBERCAJA CIUDAD ZARAGOZA 2026 XVII MEMORIAL EDUARDO LASTRADA",
     "lugar": "ZARAGOZA (C)",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -897,7 +897,7 @@
     "fecha": "23/02/2026",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2026",
     "lugar": "Elche",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -912,7 +912,7 @@
     "fecha": "04/05/2026",
     "competicion": "XX TROFEO INTERNACIONAL IBERCAJA CIUDAD ZARAGOZA 2026 XVII MEMORIAL EDUARDO LASTRADA",
     "lugar": "ZARAGOZA (C)",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -927,7 +927,7 @@
     "fecha": "03/05/2026",
     "competicion": "XX TROFEO INTERNACIONAL IBERCAJA CIUDAD ZARAGOZA 2026 XVII MEMORIAL EDUARDO LASTRADA",
     "lugar": "ZARAGOZA (C)",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -942,7 +942,7 @@
     "fecha": "14/03/2026",
     "competicion": "CTO. DE ESPAÑA ABSOLUTO OPEN P50 - ASTRALPOOL",
     "lugar": "Sabadell",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -957,7 +957,7 @@
     "fecha": "01/06/2026",
     "competicion": "LVI TROFEU SANT PASCUAL XXXVII MEMORIAL JOSE VICENTE MARTI BARRACHINA",
     "lugar": "Vila-Real",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -972,7 +972,7 @@
     "fecha": "22/02/2026",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2026",
     "lugar": "Elche",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -1032,7 +1032,7 @@
     "fecha": "26/01/2026",
     "competicion": "TROFEO INTERNACIONAL XXXI MEMORIAL PASCUAL ROMAN",
     "lugar": "Elche",
-    "isNew": false
+    "isNew": true
   },
   {
     "piscina": "50",
@@ -1047,6 +1047,6 @@
     "fecha": "23/02/2026",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2026",
     "lugar": "Elche",
-    "isNew": false
+    "isNew": true
   }
 ]
