@@ -361,18 +361,6 @@ function processRecords() {
             }
 
             //-------------------------------------------------
-            // PARCIALES
-            //-------------------------------------------------
-
-            if (
-                row["Parcial"] &&
-                row["Parcial"].toString().trim().toLowerCase() === "sí"
-            ) {
-                stats.parciales++;
-                continue;
-            }
-
-            //-------------------------------------------------
             // PRUEBA
             //-------------------------------------------------
 
@@ -397,6 +385,11 @@ function processRecords() {
             const marca = (row["Marca"] || "").toString().trim();
 
             if (!marca) continue;
+
+            // Los parciales oficiales computan como marcas validas.
+            if (row["Parcial"]) {
+                stats.parciales++;
+            }
 
             //-------------------------------------------------
             // CLAVE
@@ -613,7 +606,7 @@ function showSummary(records) {
     console.log(`Excel leídos .............. ${stats.excel}`);
     console.log(`Registros leídos .......... ${stats.registros}`);
     console.log(`Relevos descartados ....... ${stats.relevos}`);
-    console.log(`Parciales descartados ..... ${stats.parciales}`);
+    console.log(`Parciales incluidos ....... ${stats.parciales}`);
     console.log(`Pruebas ignoradas ......... ${stats.ignorados}`);
     console.log(`Récords sustituidos ....... ${stats.duplicados}`);
 
