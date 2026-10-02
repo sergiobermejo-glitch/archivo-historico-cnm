@@ -642,7 +642,7 @@
     "fecha": "12/03/2026",
     "competicion": "CTO. DE ESPAÑA ABSOLUTO OPEN P50 - ASTRALPOOL",
     "lugar": "Sabadell",
-    "isNew": true
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -657,7 +657,7 @@
     "fecha": "22/02/2026",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2026",
     "lugar": "Elche",
-    "isNew": true
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -702,7 +702,7 @@
     "fecha": "26/01/2026",
     "competicion": "TROFEO INTERNACIONAL XXXI MEMORIAL PASCUAL ROMAN",
     "lugar": "Elche",
-    "isNew": true
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -717,7 +717,7 @@
     "fecha": "02/03/2026",
     "competicion": "CAMPEONATO AUTONOMICO INFANTIL DE INVIERNO 2026",
     "lugar": "CASTELLÓN",
-    "isNew": true
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -837,7 +837,7 @@
     "fecha": "23/02/2026",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2026",
     "lugar": "Elche",
-    "isNew": true
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -897,7 +897,7 @@
     "fecha": "23/02/2026",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2026",
     "lugar": "Elche",
-    "isNew": true
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -942,7 +942,7 @@
     "fecha": "14/03/2026",
     "competicion": "CTO. DE ESPAÑA ABSOLUTO OPEN P50 - ASTRALPOOL",
     "lugar": "Sabadell",
-    "isNew": true
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -972,7 +972,7 @@
     "fecha": "22/02/2026",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2026",
     "lugar": "Elche",
-    "isNew": true
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -1032,7 +1032,7 @@
     "fecha": "26/01/2026",
     "competicion": "TROFEO INTERNACIONAL XXXI MEMORIAL PASCUAL ROMAN",
     "lugar": "Elche",
-    "isNew": true
+    "isNew": false
   },
   {
     "piscina": "50",
@@ -1047,6 +1047,6 @@
     "fecha": "23/02/2026",
     "competicion": "CAMPEONATO AUTONOMICO JUNIOR Y ABSOLUTO DE INVIERNO 2026",
     "lugar": "Elche",
-    "isNew": true
+    "isNew": false
   }
 ]
